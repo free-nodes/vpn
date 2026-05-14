@@ -1,0 +1,28 @@
+# --- 网站基本信息 ---
+title: "VPN|科学上网|翻墙梯子搭建教程"           # 网站标题
+description: "快速搭建个人VPN/科学上网/翻墙/教程/ssr/ss/bbr/梯子搭建/自建机场/自由上网/代理服务/VPN最新教程" # 搜索引擎会抓取这段描述
+remote_theme: pages-themes/slate  # 选择主题（slate 非常适合技术文档）
+
+# --- 链接与社交 ---
+# 如果你的仓库地址是 github.com/xxx/my-project
+# 那么 baseurl 填 "/my-project"；如果是个人主页仓库则留空 ""
+baseurl: "/vpn" 
+url: "https://free-nodes.github.io"     # 你的 GitHub Pages 域名
+
+# --- 构建设置 ---
+markdown: kramdown                 # 默认 Markdown 解析器
+theme: jekyll-theme-slate          # 主题名
+
+# --- 高级 SEO 与 排除 ---
+# 避免 Jekyll 渲染某些文件夹（比如你的原始脚本或 Docker 配置）
+exclude:
+  - "node_modules/"
+  - "vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "Docker-compose.yml"
+
+# --- 插件（可选） ---
+plugins:
+  - jekyll-seo-tag                 # 自动生成 SEO 标签（推荐）
+  - jekyll-relative-links         # 自动将相对路径转为网页链接
