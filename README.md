@@ -43,4 +43,4 @@ VPN|翻墙梯子就是通过连接中转的代理服务器来绕过防火墙的�
 #### 机场推荐：
 
 - 【 [ORYMI（点击注册）](https://www.orymi.net/#/register?code=rDsEp8Hf)】 免费20g流量，免费观看netflix、disney+、primevideo、hbomax 九折优惠码：LxwSsaay
-- 【 [星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 150G/9元/月，解锁流媒体及ChatGPT等AI 九折优惠码：3UJuVnqS
+- 【 [星辰加速（点击注册）](https://www.starlinkboost.com/#/register?code=9kfk8enH)】 150G/9元/月，解锁流媒体及ChatGPT等AI 九折优惠码：3UJuVnqS
